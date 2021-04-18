@@ -94,3 +94,4 @@ node_modules/passport-local-mongoose/lib/pbkdf2.js
 node_modules/passport-local-mongoose/lib/errors.js
 node_modules/passport-local-mongoose/lib/authenticate.js
 node_modules/passport-local-mongoose/index.js
+.env
